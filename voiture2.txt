@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Feb 10 10:18:44 2023
+
+@author: PC
+"""
+
+voiture1
+voiture1
+voiture1
+voiture1
+voiture1
+voiture1
+
